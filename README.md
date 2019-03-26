@@ -1,6 +1,6 @@
 # Vidéo #131 : ChainWorld
 
-## Recherche, Plan, Ecriture
+## Recherches, Plan, Ecriture
 25.03.2019  : Avancée dans l'écriture, proche de la version finale
 
 ## Tournage
