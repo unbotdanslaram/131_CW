@@ -1,4 +1,4 @@
-# Vidéo #131 : ChainWorld
+# Vidéo #131
 
 ## Recherches, Plan, Ecriture
 25.03.2019  : Avancée dans l'écriture, proche de la version finale
