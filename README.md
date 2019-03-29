@@ -6,6 +6,8 @@
 
 27.03 : Finalisation de l'écriture, relecture & corrections nécéssaire
 
+29.03 : Texte finalisé ! Tournage Lundi prochain si tout va bien (et que je me suis coupé les cheveux)
+
 ### Tournage
 
 ### Montage
