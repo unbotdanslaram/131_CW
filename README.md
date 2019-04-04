@@ -8,6 +8,8 @@
 
 29.03 : Texte finalisé ! Tournage Lundi prochain si tout va bien (et que je me suis coupé les cheveux)
 
+04.04 : Répétitions et corrections
+
 ### Tournage
 
 ### Montage
