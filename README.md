@@ -10,7 +10,7 @@
 
 04.04 : Répétitions et corrections
 
-05.04 : Texte final, prêt pour être prononcé sans accrocs et sans hésitations :sparkles:
+05.04 : Texte final, prêt pour être prononcé sans accrocs et sans hésitations (dès que mes voisins auront fini de percer des trous dans tout leur appart) :sparkles:
 
 ### Tournage
 
