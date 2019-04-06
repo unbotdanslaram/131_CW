@@ -12,6 +12,8 @@
 
 05.04 : Texte final, prêt pour être prononcé sans accrocs et sans hésitations (dès que mes voisins auront fini de percer des trous dans tout leur appart) :sparkles:
 
+06.04 : Mise en place du set de tournage et réglage caméra / lampes etc...
+
 ### Tournage
 
 ### Montage
