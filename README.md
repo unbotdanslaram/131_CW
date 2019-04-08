@@ -14,6 +14,8 @@
 
 06.04 : Mise en place du set de tournage et réglage caméra / lampes etc...
 
+08.04 : Problème d'enregistrements & tentatives de solutions (jpp)
+
 ### Tournage
 
 ### Montage
