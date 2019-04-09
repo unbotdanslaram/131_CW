@@ -12,13 +12,12 @@
 
 05.04 : Texte final, prêt pour être prononcé sans accrocs et sans hésitations (dès que mes voisins auront fini de percer des trous dans tout leur appart) :sparkles:
 
+### Tournage, Montage
 06.04 : Mise en place du set de tournage et réglage caméra / lampes etc...
 
 08.04 : Problème d'enregistrements & tentatives de solutions (jpp)
 
-### Tournage
-
-### Montage
+09.04 : Enregistrement face cam & voix off ! 
 
 ### Pré-publication
 
