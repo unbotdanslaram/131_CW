@@ -17,8 +17,11 @@
 
 08.04 : Problème d'enregistrements & tentatives de solutions (jpp)
 
-09.04 : Enregistrement face cam & voix off ! 
-
+09.04 : Enregistrement face cam & voix off !
+        Dérushage & montage voix off
+        Storyboard & recherche du materiel de montage
+        
+        
 ### Pré-publication
 
 ### Publication
