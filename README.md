@@ -20,9 +20,12 @@
 09.04 :
 - Enregistrement face cam & voix off !
 - Dérushage & montage voix off
-- Storyboard & collecte du materiel de montage
-        
-        
+- Storyboard 
+
+11.04 :
+- Montage face-camera
+- Collecte du matériel et montage vidéo
+
 ### Pré-publication
 
 ### Publication
