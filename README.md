@@ -24,7 +24,7 @@
 
 11.04 :
 - Montage face-camera
-- Collecte du matériel et montage vidéo
+- Montage vidéo
 
 ### Pré-publication
 
