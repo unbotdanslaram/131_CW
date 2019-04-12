@@ -26,6 +26,12 @@
 - Montage face-camera
 - Montage vidéo
 
+12.04 :
+- Montage vidéo
+- Effets & animations
+- Post prod : étalonnage vidéo & étalonnage du son
+- Finalisation du montage
+
 ### Pré-publication
 
 ### Publication
