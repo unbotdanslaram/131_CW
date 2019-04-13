@@ -32,7 +32,9 @@
 - Post prod : étalonnage vidéo & étalonnage du son
 - Finalisation du montage
 
-### Pré-publication
-
 ### Publication
-
+13.04 :
+- Finalisation des effets & animations
+- Petites corrections après visionnages
+- Publication sur Youtube : [Un Monde Secret sur Minecraft](https://www.youtube.com/watch?v=OuboU8iv-8U&feature=youtu.be)
+- Publication sur Medium : [Un Monde Secret](https://medium.com/un-bot-fr/un-monde-secret-edf5dc4c9053)
